@@ -22,4 +22,4 @@ bau_game_text_ico = """
   	         #########################################################
 """
 
-os.system("python source/bau_game.py")
+os.system("python source/BAU_Game.py")
