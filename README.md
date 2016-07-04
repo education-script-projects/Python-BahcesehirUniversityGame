@@ -1,6 +1,6 @@
 # Python - Bahcesehir University Game
 
-![bau](https://cloud.githubusercontent.com/assets/15425071/16565872/5903e164-41de-11e6-87c2-1f2cdf967e02.png)
+![bau](https://cloud.githubusercontent.com/assets/15425071/16565931/b17e928a-41de-11e6-9f38-3928ee12a97c.png)
 
 # Running Game
 
